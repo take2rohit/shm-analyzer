@@ -101,7 +101,7 @@ for j = 2000 : 2100
  img=insertText(img,[50 140],['Damping constant: 6.800 x 10^(-2) Kg/sec']);
  img=insertText(img,[50 170],['Stifness Constant: 181.063 N/m']);
  img=insertText(img,[100,300],['Equation of Motion:  9.7365exp(-0.009534t)sin(23.556t)' ],'FontSize',18,'BoxColor','red','BoxOpacity',0.8,'TextColor','white');
- %imshow(img);
+ imshow(img);
     
 end
 %to calculate mean 
