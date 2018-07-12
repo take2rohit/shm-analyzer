@@ -6,7 +6,10 @@
 
 ## Software
   Matlab R2015a for image processing
-  
+
+## Sample
+![screenshot 13](https://user-images.githubusercontent.com/40535193/42630098-3e762e5a-85f3-11e8-941e-b95708444416.png)
+
 ## Team Members
   
 1. **Rohit Lal
